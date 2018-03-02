@@ -1,4 +1,5 @@
 [![Neovim](https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-600x173.png)](https://neovim.io)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fturly221%2Fneovim.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fturly221%2Fneovim?ref=badge_shield)
 
 [Wiki](https://github.com/neovim/neovim/wiki) |
 [Documentation](https://neovim.io/doc) |
@@ -125,3 +126,6 @@ See `LICENSE` for details.
 [Gentoo]: https://packages.gentoo.org/packages/app-editors/neovim
 
 <!-- vim: set tw=80: -->
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fturly221%2Fneovim.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fturly221%2Fneovim?ref=badge_large)
